@@ -1,0 +1,34 @@
+_repo: A-Brief-Bible-HistoryA-Survey-of-the-Old-and-New-Testaments_43533
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43533-h/images/coverpage.jpg
+creator:
+  authors:
+  - agent_name: Boyd, James Oscar
+    alias: Boyd, J. Oscar (James Oscar)
+    birthdate: 1874
+    deathdate: 1947
+    gutenberg_agent_id: '42276'
+    url: http://www.gutenberg.org/2009/agents/42276
+  - agent_name: Machen, J. Gresham (John Gresham)
+    alias: Machen, John Gresham
+    birthdate: 1881
+    deathdate: 1937
+    gutenberg_agent_id: '42260'
+    url: http://www.gutenberg.org/2009/agents/42260
+description: ''
+gutenberg_issued: '2013-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43533'
+  lccn: '23005381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible stories, English'
+title: 'A Brief Bible History: A Survey of the Old and New Testaments'
+url: http://www.gutenberg.org/ebooks/43533
