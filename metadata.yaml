@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '42260'
     url: http://www.gutenberg.org/2009/agents/42260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43533#A-Brief-Bible-HistoryA-Survey-of-the-Old-and-New-Testaments
 gutenberg_issued: '2013-08-22'
 gutenberg_type: Text
 identifiers:
